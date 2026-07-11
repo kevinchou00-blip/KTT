@@ -1,0 +1,15 @@
+{
+  "symbol_candidates": [
+    "XAUUSDM",
+    "XAUUSD",
+    "GOLD"
+  ],
+  "timeframes": {
+    "M1": 50000,
+    "M5": 30000,
+    "M15": 20000,
+    "H1": 10000,
+    "D1": 3000
+  },
+  "database": "data/kttp_research.db"
+}
